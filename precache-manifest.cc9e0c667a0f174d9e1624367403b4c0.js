@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "646c962e1b7961745c2b747510b62a66",
+    "revision": "03f7114c360c1909412c0b1bb99316ad",
     "url": "/developerFolio/index.html"
   },
   {
-    "revision": "b7e40aa2d8f5d2c1b28b",
+    "revision": "3da71a30cc19ad7308c2",
     "url": "/developerFolio/static/css/3.f9898e9a.chunk.css"
   },
   {
-    "revision": "785a67e5b49c731530ab",
+    "revision": "fd1638600311b448d451",
     "url": "/developerFolio/static/css/4.54df59d4.chunk.css"
   },
   {
-    "revision": "bfeb41bbc3a72811eedb",
+    "revision": "5a2f044b879c336f8d9c",
     "url": "/developerFolio/static/css/main.dd95e40c.chunk.css"
   },
   {
-    "revision": "4f6b54c5b49c91307945",
-    "url": "/developerFolio/static/js/2.1931a92d.chunk.js"
+    "revision": "851ca7c0f9f937ede618",
+    "url": "/developerFolio/static/js/2.35a04cc2.chunk.js"
   },
   {
     "revision": "71772b085033e92f89cdfb3071333458",
-    "url": "/developerFolio/static/js/2.1931a92d.chunk.js.LICENSE.txt"
+    "url": "/developerFolio/static/js/2.35a04cc2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b7e40aa2d8f5d2c1b28b",
-    "url": "/developerFolio/static/js/3.150dcb24.chunk.js"
+    "revision": "3da71a30cc19ad7308c2",
+    "url": "/developerFolio/static/js/3.f0b19161.chunk.js"
   },
   {
-    "revision": "785a67e5b49c731530ab",
-    "url": "/developerFolio/static/js/4.082fac5a.chunk.js"
+    "revision": "fd1638600311b448d451",
+    "url": "/developerFolio/static/js/4.7255a1e5.chunk.js"
   },
   {
-    "revision": "bfeb41bbc3a72811eedb",
-    "url": "/developerFolio/static/js/main.45733689.chunk.js"
+    "revision": "5a2f044b879c336f8d9c",
+    "url": "/developerFolio/static/js/main.e42c52a9.chunk.js"
   },
   {
-    "revision": "82835057459457e0e224",
-    "url": "/developerFolio/static/js/runtime-main.ce055b7f.js"
+    "revision": "ad2c4f5e574f241b1a2b",
+    "url": "/developerFolio/static/js/runtime-main.d75af4c8.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -74,5 +74,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "de3da8064f2e9ffab945772c2c67e46f",
     "url": "/developerFolio/static/media/talksCardBack.de3da806.svg"
+  },
+  {
+    "revision": "f31b78bf2b2cbaf877921f0180e6fbd5",
+    "url": "/developerFolio/static/media/thesmartbridge.f31b78bf.png"
   }
 ]);
