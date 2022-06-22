@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/developerFolio/static/css/main.dd95e40c.chunk.css",
-    "main.js": "/developerFolio/static/js/main.b34b167b.chunk.js",
-    "main.js.map": "/developerFolio/static/js/main.b34b167b.chunk.js.map",
-    "runtime-main.js": "/developerFolio/static/js/runtime-main.d75af4c8.js",
-    "runtime-main.js.map": "/developerFolio/static/js/runtime-main.d75af4c8.js.map",
+    "main.js": "/developerFolio/static/js/main.c9f4e7e7.chunk.js",
+    "main.js.map": "/developerFolio/static/js/main.c9f4e7e7.chunk.js.map",
+    "runtime-main.js": "/developerFolio/static/js/runtime-main.69742e8c.js",
+    "runtime-main.js.map": "/developerFolio/static/js/runtime-main.69742e8c.js.map",
     "static/js/2.35a04cc2.chunk.js": "/developerFolio/static/js/2.35a04cc2.chunk.js",
     "static/js/2.35a04cc2.chunk.js.map": "/developerFolio/static/js/2.35a04cc2.chunk.js.map",
     "static/css/3.f9898e9a.chunk.css": "/developerFolio/static/css/3.f9898e9a.chunk.css",
     "static/js/3.f0b19161.chunk.js": "/developerFolio/static/js/3.f0b19161.chunk.js",
     "static/js/3.f0b19161.chunk.js.map": "/developerFolio/static/js/3.f0b19161.chunk.js.map",
     "static/css/4.54df59d4.chunk.css": "/developerFolio/static/css/4.54df59d4.chunk.css",
-    "static/js/4.7255a1e5.chunk.js": "/developerFolio/static/js/4.7255a1e5.chunk.js",
-    "static/js/4.7255a1e5.chunk.js.map": "/developerFolio/static/js/4.7255a1e5.chunk.js.map",
+    "static/js/4.a259a89b.chunk.js": "/developerFolio/static/js/4.a259a89b.chunk.js",
+    "static/js/4.a259a89b.chunk.js.map": "/developerFolio/static/js/4.a259a89b.chunk.js.map",
     "index.html": "/developerFolio/index.html",
-    "precache-manifest.4009a8485a78f32a2d7973e0e74d22cb.js": "/developerFolio/precache-manifest.4009a8485a78f32a2d7973e0e74d22cb.js",
+    "precache-manifest.c86ce72bec59ef2768985902d3e40a39.js": "/developerFolio/precache-manifest.c86ce72bec59ef2768985902d3e40a39.js",
     "service-worker.js": "/developerFolio/service-worker.js",
     "static/css/3.f9898e9a.chunk.css.map": "/developerFolio/static/css/3.f9898e9a.chunk.css.map",
     "static/css/4.54df59d4.chunk.css.map": "/developerFolio/static/css/4.54df59d4.chunk.css.map",
@@ -31,9 +31,9 @@
     "static/media/thesmartbridge.png": "/developerFolio/static/media/thesmartbridge.f31b78bf.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d75af4c8.js",
+    "static/js/runtime-main.69742e8c.js",
     "static/js/2.35a04cc2.chunk.js",
     "static/css/main.dd95e40c.chunk.css",
-    "static/js/main.b34b167b.chunk.js"
+    "static/js/main.c9f4e7e7.chunk.js"
   ]
 }
